@@ -44,4 +44,4 @@ The React Native packager is extremely sensitive to the following scenarios:
 
 ## Feedback
 
-I can't promise that I'll be able to respond to issues filed, but they're definiitely welcome. Even more so Pull Requests.
+I can't promise that I'll be able to respond to issues filed, but they're definitely welcome. Even more so Pull Requests.
